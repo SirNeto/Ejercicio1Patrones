@@ -1,0 +1,11 @@
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\Practica1Creacionales\Practica1Creacionales\bin\Debug\Practica1Creacionales.pdb
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\Practica1Creacionales\Practica1Creacionales\obj\Debug\Practica1Creacionales.pdb
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\Practica1Creacionales\Practica1Creacionales\bin\Debug\Practica1Creacionales.dll.config
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\Practica1Creacionales\Practica1Creacionales\bin\Debug\Practica1Creacionales.dll
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\Practica1Creacionales\Practica1Creacionales\obj\Debug\Practica1Creacionales.dll
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\borrar\Practica1Creacionales\Practica1Creacionales\bin\Debug\Practica1Creacionales.dll.config
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\borrar\Practica1Creacionales\Practica1Creacionales\bin\Debug\Practica1Creacionales.dll
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\borrar\Practica1Creacionales\Practica1Creacionales\bin\Debug\Practica1Creacionales.pdb
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\borrar\Practica1Creacionales\Practica1Creacionales\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\borrar\Practica1Creacionales\Practica1Creacionales\obj\Debug\Practica1Creacionales.dll
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\borrar\Practica1Creacionales\Practica1Creacionales\obj\Debug\Practica1Creacionales.pdb
