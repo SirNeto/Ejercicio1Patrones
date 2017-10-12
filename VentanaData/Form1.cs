@@ -16,6 +16,7 @@ namespace VentanaData
     {
         DataFactory Fact;
         TransFactory TFact;
+        DataContainer Data;
         public Form1()
         {
             InitializeComponent();
@@ -38,7 +39,7 @@ namespace VentanaData
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            DataContainer Data = new DataContainer();
+            Data = new DataContainer();
             Data.Data = Fact.GenerateDataGenerator(comboBox1.SelectedIndex).GenerateData();
             chart1.Series["Series1"].Points.Clear();
             foreach (double x in Data.Data)
@@ -56,18 +57,12 @@ namespace VentanaData
             }
 
             label1.Text = "Media: " + sf.GetMeanCalculator().CalculateMean(Data.Data).ToString();
+
         }
 
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
-            DataContainer Data = new DataContainer();
-            Data.Data = Fact.GenerateDataGenerator(comboBox1.SelectedIndex).GenerateData();
-            chart1.Series["Series1"].Points.Clear();
-            foreach (double x in Data.Data)
-            {
-                chart1.Series["Series1"].Points.AddY(x);
-            }
-
+            
             IStatisticsFactory sf = TFact.GenerateDataTrans(comboBox2.SelectedIndex, 1);
 
             Data.Data = sf.GetDataTransformer().TransformData(((DataContainer)Data.Clone()).Data);

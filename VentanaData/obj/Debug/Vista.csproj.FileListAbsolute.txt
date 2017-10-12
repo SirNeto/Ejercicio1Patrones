@@ -22,3 +22,4 @@ C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\borrar\Practica1Creaci
 C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\borrar\Practica1Creacionales\VentanaData\obj\Debug\Vista.csproj.GenerateResource.Cache
 C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\borrar\Practica1Creacionales\VentanaData\obj\Debug\VentanaData.exe
 C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\borrar\Practica1Creacionales\VentanaData\obj\Debug\VentanaData.pdb
+C:\Users\usuario\Documents\7_semestre\Patrones de Diseño\Practica1Creacionales\VentanaData\obj\Debug\Vista.csproj.CoreCompileInputs.cache
